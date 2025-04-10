@@ -1,5 +1,5 @@
 # 💫 About Me:
-Co-Founder of Conduit Management - Digital Intelligence Agency (SEO, Web Dev, Analytics and Ads)<br>[Conduit Management](https://conduitmgmt.com)<br><br>Founder of NovaStone Dynamics - Hospitality Industry Stock Profiler and Analytics Projector, TarsMachina: ConduitOne Family Product, Quantitative AI analysis (not another GPT wrapper!)<br>[NovaStone Dynamics TarsMachina](https://conduitmgmt.com/tarsmachina)<br>- 147% portfolio return in 10 months<br>- 450% return with PLTR<br>- Runs on a Raspberry Pi<br><br>Currently a Bachelor of Computer Science Student at Monash University
+Co-Founder of Conduit Management - Digital Intelligence Agency (SEO, Web Dev, Analytics and Ads)<br>[Conduit Management](https://conduitmgmt.com)<br><br>Founder of NovaStone Dynamics - Hospitality Industry Stock Profiler and Analytics Projector, TarsMachina: ConduitOne Family Product, Quantitative AI analysis (not another GPT wrapper!)<br>[NovaStone Dynamics TarsMachina](https://conduitmgmt.com/tarsmachina)<br><br>- 147% portfolio return in 10 months<br>- 450% return with PLTR<br>- Runs on a Raspberry Pi<br><br>Currently a Bachelor of Computer Science Student at Monash University
 
 
 ## 🌐 Socials:
