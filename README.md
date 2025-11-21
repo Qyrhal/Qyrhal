@@ -1,4 +1,4 @@
-Hi my name's Midhun,<br><br>Bachelor of Computer Science - Monash University<br>Founder - [Conduit Management](https://conduitmgmt.com) & Qog<br>
+Hi my name's Midhun,<br><br>Bachelor of Computer Science - Monash University<br>Founder - [Conduit Management](https://conduitmgmt.com) & Korvant<br>
 
 
 ## socials:
