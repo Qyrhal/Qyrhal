@@ -1,4 +1,4 @@
-Hi my name's Midhun,<br><br>Bachelor of Computer Science - Monash University<br>Founder - [Conduit Management](https://conduitmgmt.com) & Korvant<br>
+Hi my name's Midhun,<br><br>Bachelor of Computer Science - Monash University<br>Founder - [Conduit Management](https://conduitmgmt.com) & [Korvant](https://korvant.au)<br><br>Currently Systems and Infra Officer at Monash Automation - Proxmox, Kubernetes, vllm, llama.cpp and Argocd 
 
 
 ## socials:
